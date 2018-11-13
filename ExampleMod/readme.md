@@ -1,2 +1,2 @@
-#How it works
+# How it works
 The main.class runs your Java Module, make sure to create a function that can be called with an InputStream in order to launch it. If your module is already exported as an executable Jar, simply add a CMD wrapper for it. A standard .java file will automatically generate a .class file in Eclipse. Export this file as the .class along with any necessary files in our module into a ZIP in order for the module to function properly in JavaTM. Upload the ZIP as a pull request to the Open Source Modules repository.
